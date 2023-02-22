@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gitjutsu/static/css/main.073c9b0a.css",
+    "main.js": "/gitjutsu/static/js/main.c0f36b58.js",
+    "static/js/787.fe4eec7a.chunk.js": "/gitjutsu/static/js/787.fe4eec7a.chunk.js",
+    "static/media/gitjutsu.svg": "/gitjutsu/static/media/gitjutsu.2974bc09ab7538e60a8acaf1fdb20143.svg",
+    "index.html": "/gitjutsu/index.html",
+    "main.073c9b0a.css.map": "/gitjutsu/static/css/main.073c9b0a.css.map",
+    "main.c0f36b58.js.map": "/gitjutsu/static/js/main.c0f36b58.js.map",
+    "787.fe4eec7a.chunk.js.map": "/gitjutsu/static/js/787.fe4eec7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c0f36b58.js"
+  ]
+}
